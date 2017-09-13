@@ -1,0 +1,13 @@
+name: hexencode
+version: 0.1.0
+
+authors:
+  - Isaac Sloan <isaac@isaacsloan.com>
+
+targets:
+  hexencode:
+    main: src/hexencode.cr
+
+crystal: 0.23.1
+
+license: MIT
